@@ -1,7 +1,7 @@
 # DocuVault-Flutter-and-Nodejs-MongoDB
 ### A Web app to store your personal documents. 
 
-#### Change branch to 'master' ot view code
+#### Change branch to 'master' to view code
 
 ## Backend Prerequisites
 ### Create .env file
