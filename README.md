@@ -23,7 +23,7 @@ $ npm start
 
 ### Credits
 
-This project is based on the work of [@mitchkoko](https://github.com/mitchkoko). I have made modifications to the code for my project.
+This frontend dashborad is based on the work of [@mitchkoko](https://github.com/mitchkoko). I have made modifications to the code for my project.
 
 **Original Repository:** [Link to Original Repository](https://github.com/mitchkoko/responsivedashboard.git)
 
